@@ -24,5 +24,5 @@ Kazukiはこのスクリプトをカプコンがサイトを公開した2,3日�
 
 1. 名前を Captown ROM Dumper、リンクを `javascript:(function () {var s = document.createElement('script');s.setAttribute('src', 'https://cdn.discordapp.com/attachments/1011913296498143293/1119106289419685970/captown_rom_dumper.js');document.body.appendChild(s);}());` に設定してブックマークを作成します。
 1. [Captown](https://captown.capcom.com/)のレトロゲームがあそべるサイト(例): [ロックマンX](https://captown.capcom.com/ja/retro_games/6/ja)へ移動します。
-1. Mii Studio Import/Export tool をブックマークから選択します。
+1. Captown ROM Dumper をブックマークから選択します。
 1. 複合されたROMがダウンロードされます。(実際にはブラウザ内のwasm仮想マシン内のヒープメモリから複合されたROMを見つけて保存してるだけで、ダウンロードされている訳ではありません。)
